@@ -1,0 +1,15 @@
+h1{
+    background-color: aqua;
+}
+h2{
+    color: aquamarine;
+}
+p {
+    background-color: black;
+    color: aliceblue;
+}
+.box{
+    color: blanchedalmond;
+    width: fit-content;
+    height: 0%;
+}
