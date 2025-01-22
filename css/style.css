@@ -1,15 +1,87 @@
 h1{
     background-color: aqua;
+    color: red;
 }
 h2{
     color: aquamarine;
+    background-color: blanchedalmond;
 }
 p {
-    background-color: black;
-    color: aliceblue;
+    background-color: greenyellow;
+    color: black
 }
 .box{
     color: blanchedalmond;
     width: fit-content;
     height: 0%;
 }
+div.box{
+    color: beige;
+    width: blue;
+    height: 20px;
+    animation-timing-function: cubic-bezier();
+    animation-duration:5ms;
+    animation-delay: 1s;
+}
+Div{
+    height: 50px;
+    width: 50px;
+    background-color: bisque;
+    color: blue;
+    display: inline;
+}
+@media only screen and (max-width:786px)
+.container{
+    background color: red;
+    color: blue;
+}
+@media only screen and (max-width:1024px)
+.container{
+    background color: black;
+    color: red;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
